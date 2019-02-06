@@ -1,0 +1,141 @@
+inherited Form2_NmXhdpiPh: TForm2_NmXhdpiPh
+  ClientHeight = 615
+  ClientWidth = 400
+  DesignerMasterStyle = 3
+  inherited Button1: TButton
+    Align = Scale
+    Position.X = 160.000000000000000000
+    Position.Y = 368.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    Text = '9'
+    OnClick = Button1Click
+  end
+  inherited Button2: TButton
+    Align = Scale
+    Position.X = 80.000000000000000000
+    Position.Y = 368.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    Text = '8'
+    OnClick = Button2Click
+  end
+  inherited Button3: TButton
+    Align = Scale
+    Position.X = 4.000000000000000000
+    Position.Y = 368.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    Text = '7'
+    OnClick = Button3Click
+  end
+  inherited Button4: TButton
+    Align = Scale
+    Position.X = 4.000000000000000000
+    Position.Y = 280.000000000000000000
+    Text = '4'
+    OnClick = Button4Click
+  end
+  inherited Button5: TButton
+    Align = Scale
+    Position.X = 80.000000000000000000
+    Position.Y = 280.000000000000000000
+    TabOrder = 12
+    Text = '5'
+    OnClick = Button5Click
+  end
+  inherited Button6: TButton
+    Align = Scale
+    Position.X = 160.000000000000000000
+    Position.Y = 280.000000000000000000
+    Text = '6'
+    OnClick = Button6Click
+  end
+  inherited Button7: TButton
+    Align = Scale
+    Position.X = 4.000000000000000000
+    Position.Y = 192.000000000000000000
+    TabOrder = 13
+    Text = '1'
+    OnClick = Button7Click
+  end
+  inherited Button8: TButton
+    Align = Scale
+    Position.X = 80.000000000000000000
+    Position.Y = 192.000000000000000000
+    Text = '2'
+    OnClick = Button8Click
+  end
+  inherited Button9: TButton
+    Align = Scale
+    Position.X = 160.000000000000000000
+    Position.Y = 192.000000000000000000
+    Text = '3'
+    OnClick = Button9Click
+  end
+  inherited Button10: TButton
+    Align = Scale
+    Position.X = 8.000000000000000000
+    Position.Y = 456.000000000000000000
+    Size.Width = 225.000000000000000000
+    Text = '0'
+    OnClick = Button10Click
+  end
+  inherited Button11: TButton
+    Align = Scale
+    Position.X = 240.000000000000000000
+    Position.Y = 192.000000000000000000
+    Text = '-'
+    OnClick = Button11Click
+  end
+  inherited Button12: TButton
+    Align = Scale
+    Position.X = 240.000000000000000000
+    Position.Y = 280.000000000000000000
+    Text = '+'
+    OnClick = Button12Click
+  end
+  inherited Button13: TButton
+    Align = Scale
+    Position.X = 240.000000000000000000
+    Position.Y = 368.000000000000000000
+    Text = '*'
+    OnClick = Button13Click
+  end
+  inherited Button14: TButton
+    Align = Scale
+    Position.X = 240.000000000000000000
+    Position.Y = 456.000000000000000000
+    Text = '/'
+    OnClick = Button14Click
+  end
+  inherited Button15: TButton
+    Align = Scale
+    Position.X = 320.000000000000000000
+    Position.Y = 191.000000000000000000
+    Size.Height = 162.000000000000000000
+    Text = 'C'
+    OnClick = Button15Click
+  end
+  inherited Edit1: TEdit
+    Align = Scale
+    Position.X = 8.000000000000000000
+    Position.Y = 128.000000000000000000
+    Size.Width = 377.000000000000000000
+    Size.PlatformDefault = False
+  end
+  inherited Edit2: TEdit
+    Position.X = 8.000000000000000000
+    Position.Y = 72.000000000000000000
+    Size.Width = 361.000000000000000000
+    Size.PlatformDefault = False
+    Visible = False
+  end
+  inherited Button16: TButton
+    Align = Scale
+    Position.X = 320.000000000000000000
+    Position.Y = 367.000000000000000000
+    Text = '='
+    OnClick = Button16Click
+  end
+end

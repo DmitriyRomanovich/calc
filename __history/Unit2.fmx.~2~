@@ -1,0 +1,158 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 3
+  object Button1: TButton
+    Position.X = 88.000000000000000000
+    Position.Y = 128.000000000000000000
+    TabOrder = 16
+    Text = 'Button1'
+  end
+  object Button2: TButton
+    Position.X = 32.000000000000000000
+    Position.Y = 56.000000000000000000
+    TabOrder = 14
+    Text = 'Button1'
+  end
+  object Button3: TButton
+    Position.X = 40.000000000000000000
+    Position.Y = 64.000000000000000000
+    TabOrder = 11
+    Text = 'Button1'
+  end
+  object Button4: TButton
+    Position.X = 48.000000000000000000
+    Position.Y = 72.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 15
+    Text = 'Button1'
+  end
+  object Button5: TButton
+    Position.X = 120.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 13
+    Text = 'Button1'
+  end
+  object Button6: TButton
+    Position.X = 208.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = 'Button1'
+  end
+  object Button7: TButton
+    Position.X = 56.000000000000000000
+    Position.Y = 80.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 12
+    Text = 'Button1'
+  end
+  object Button8: TButton
+    Position.X = 128.000000000000000000
+    Position.Y = 64.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'Button1'
+  end
+  object Button9: TButton
+    Position.X = 216.000000000000000000
+    Position.Y = 64.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Button1'
+  end
+  object Button10: TButton
+    Position.X = 24.000000000000000000
+    Position.Y = 368.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 10
+    Text = 'Button1'
+  end
+  object Button11: TButton
+    Position.X = 32.000000000000000000
+    Position.Y = 376.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 9
+    Text = 'Button1'
+  end
+  object Button12: TButton
+    Position.X = 40.000000000000000000
+    Position.Y = 384.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 8
+    Text = 'Button1'
+  end
+  object Button13: TButton
+    Position.X = 48.000000000000000000
+    Position.Y = 392.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 7
+    Text = 'Button1'
+  end
+  object Button14: TButton
+    Position.X = 56.000000000000000000
+    Position.Y = 400.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 6
+    Text = 'Button1'
+  end
+  object Button15: TButton
+    Position.X = 64.000000000000000000
+    Position.Y = 407.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 5
+    Text = 'Button1'
+  end
+  object Edit1: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 17
+    Position.X = 72.000000000000000000
+    Position.Y = 120.000000000000000000
+  end
+  object Edit2: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 18
+    Position.X = 152.000000000000000000
+    Position.Y = 136.000000000000000000
+  end
+  object Button16: TButton
+    Position.X = 328.000000000000000000
+    Position.Y = 191.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 162.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 4
+    Text = 'Button1'
+  end
+end

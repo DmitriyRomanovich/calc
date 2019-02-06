@@ -1,0 +1,83 @@
+inherited Form2_NmXhdpiPh: TForm2_NmXhdpiPh
+  ClientHeight = 615
+  ClientWidth = 400
+  DesignerMasterStyle = 3
+  inherited Button1: TButton
+    Position.X = 168.000000000000000000
+    Position.Y = 368.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+  end
+  inherited Button2: TButton
+    Position.X = 88.000000000000000000
+    Position.Y = 368.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+  end
+  inherited Button3: TButton
+    Position.X = 8.000000000000000000
+    Position.Y = 368.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+  end
+  inherited Button4: TButton
+    Position.X = 8.000000000000000000
+    Position.Y = 280.000000000000000000
+  end
+  inherited Button5: TButton
+    Position.X = 88.000000000000000000
+    Position.Y = 280.000000000000000000
+    TabOrder = 12
+  end
+  inherited Button6: TButton
+    Position.X = 168.000000000000000000
+    Position.Y = 280.000000000000000000
+  end
+  inherited Button7: TButton
+    Position.X = 8.000000000000000000
+    Position.Y = 192.000000000000000000
+    TabOrder = 13
+  end
+  inherited Button8: TButton
+    Position.X = 88.000000000000000000
+    Position.Y = 192.000000000000000000
+  end
+  inherited Button9: TButton
+    Position.X = 168.000000000000000000
+    Position.Y = 192.000000000000000000
+  end
+  inherited Button10: TButton
+    Position.X = 8.000000000000000000
+    Position.Y = 456.000000000000000000
+    Size.Width = 233.000000000000000000
+  end
+  inherited Button11: TButton
+    Position.X = 248.000000000000000000
+    Position.Y = 192.000000000000000000
+  end
+  inherited Button12: TButton
+    Position.X = 248.000000000000000000
+    Position.Y = 280.000000000000000000
+  end
+  inherited Button13: TButton
+    Position.X = 248.000000000000000000
+    Position.Y = 368.000000000000000000
+  end
+  inherited Button14: TButton
+    Position.X = 248.000000000000000000
+    Position.Y = 456.000000000000000000
+  end
+  inherited Button15: TButton
+    Position.X = 328.000000000000000000
+    Position.Y = 191.000000000000000000
+    Size.Height = 162.000000000000000000
+  end
+  inherited Edit2: TEdit
+    Position.X = 16.000000000000000000
+    Size.Width = 361.000000000000000000
+    Size.PlatformDefault = False
+  end
+  inherited Button16: TButton
+    Position.Y = 367.000000000000000000
+  end
+end

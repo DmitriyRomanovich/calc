@@ -1,0 +1,59 @@
+inherited Form2_LgXhdpiPh: TForm2_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited Button1: TButton
+    Position.X = 120.000000000000000000
+    Position.Y = -5360.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 15
+  end
+  inherited Button2: TButton
+    Position.X = 120.000000000000000000
+    Position.Y = -495.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+  end
+  inherited Button3: TButton
+    Position.X = 120.000000000000000000
+    Position.Y = -4665.000000000000000000
+    Size.Width = 73.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+  end
+  inherited Button4: TButton
+    Position.X = 120.000000000000000000
+    Position.Y = -1190.000000000000000000
+    TabOrder = 19
+  end
+  inherited Button5: TButton
+    Position.Y = -3970.000000000000000000
+    TabOrder = 12
+  end
+  inherited Button6: TButton
+    Position.X = 120.000000000000000000
+    Position.Y = -1885.000000000000000000
+  end
+  inherited Button7: TButton
+    Position.X = 120.000000000000000000
+    Position.Y = -3275.000000000000000000
+    TabOrder = 13
+  end
+  inherited Button8: TButton
+    Position.X = 120.000000000000000000
+    Position.Y = -2580.000000000000000000
+  end
+  inherited Button9: TButton
+    Position.X = 256.000000000000000000
+    Position.Y = 104.000000000000000000
+  end
+  inherited Edit1: TEdit
+    TabOrder = 16
+  end
+  inherited Edit2: TEdit
+    TabOrder = 17
+  end
+end
